@@ -1,0 +1,7 @@
+git clone 仓库名（想让远程仓库放哪就在哪右击）
+cd 仓库名
+git status
+git add 新建文件名
+git commit -m"add 文件名"
+git push(输入用户名 密码)
+
